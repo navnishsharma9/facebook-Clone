@@ -1,0 +1,62 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.padding-top {
+  padding-top: 5.1rem;
+  height: 44rem;
+}
+
+.padding-top .width {
+  width: 63rem;
+}
+
+.padding-top .width h2 {
+  font-size: 28px;
+}
+
+.padding-top .width .img-top-padding {
+  padding-top: 4rem;
+}
+
+.padding-top .width .fb-description {
+  font-weight: normal;
+  width: 31.25rem;
+  font-size: 1.75rem;
+}
+
+.padding-top .width .form-padding {
+  padding: 1.1rem 1.9rem 1.7rem;
+  border: none;
+  box-shadow: 2px 4px 14px 5px lightgray;
+}
+
+.padding-top .width .rounded-corner {
+  border-radius: 3%;
+}
+
+.padding-top .width .login-field {
+  padding: .8rem .7rem;
+}
+
+.padding-top .width .signup-button {
+  background-color: #01d301;
+  border: none;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.padding-top .width #page {
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  font-weight: normal;
+  color: grey;
+  margin: 0 .2rem;
+  font-size: 12px;
+}
+/*# sourceMappingURL=style.css.map */
